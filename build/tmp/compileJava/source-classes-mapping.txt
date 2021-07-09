@@ -2,3 +2,7 @@ modulo6/aula2/Carro.java
  modulo6.aula2.Carro
 modulo6/aula2/Principal.java
  modulo6.aula2.Principal
+modulo6/aula3/Carro.java
+ modulo6.aula3.Carro
+modulo6/aula3/Principal.java
+ modulo6.aula3.Principal

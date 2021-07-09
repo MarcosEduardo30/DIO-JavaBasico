@@ -1,7 +1,5 @@
 package modulo6.aula2;
 
-import modulo6.aula2.Carro;
-
 public class Principal {
 
     public static void main(String[] args){
