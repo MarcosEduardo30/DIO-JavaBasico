@@ -16,3 +16,9 @@ modulo6/aula4/Funcionario.java
  modulo6.aula4.Funcionario
 modulo6/aula4/Principal.java
  modulo6.aula4.Principal
+modulo6/aula5/Quadrinho.java
+ modulo6.aula5.Quadrinho
+modulo6/aula5/Principal.java
+ modulo6.aula5.Principal
+modulo6/aula5/Livro.java
+ modulo6.aula5.Livro
