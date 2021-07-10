@@ -22,3 +22,9 @@ modulo6/aula5/Principal.java
  modulo6.aula5.Principal
 modulo6/aula5/Livro.java
  modulo6.aula5.Livro
+modulo8/aula2/TesteInstant.java
+ modulo8.aula2.TesteInstant
+modulo8/aula2/DateTeste.java
+ modulo8.aula2.DateTeste
+modulo8/aula2/Nascimento.java
+ modulo8.aula2.Nascimento
