@@ -28,3 +28,9 @@ modulo8/aula2/DateTeste.java
  modulo8.aula2.DateTeste
 modulo8/aula2/Nascimento.java
  modulo8.aula2.Nascimento
+modulo8/aula3/TesteCalendar.java
+ modulo8.aula3.TesteCalendar
+modulo8/aula3/Principal.java
+ modulo8.aula3.Principal
+modulo8/aula3/Fatura.java
+ modulo8.aula3.Fatura
