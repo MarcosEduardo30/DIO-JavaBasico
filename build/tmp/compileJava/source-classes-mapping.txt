@@ -1,42 +1,44 @@
+modulo6/aula4/Gerente.java
+ modulo6.aula4.Gerente
+modulo8/aula3/Principal.java
+ modulo8.aula3.Principal
 modulo6/aula2/Carro.java
  modulo6.aula2.Carro
+modulo8/aula5/AdicionaData.java
+ modulo8.aula5.AdicionaData
+modulo6/aula5/Quadrinho.java
+ modulo6.aula5.Quadrinho
+modulo6/aula3/Principal.java
+ modulo6.aula3.Principal
+modulo8/aula3/TesteCalendar.java
+ modulo8.aula3.TesteCalendar
+modulo6/aula4/Principal.java
+ modulo6.aula4.Principal
+modulo6/aula5/Livro.java
+ modulo6.aula5.Livro
+modulo8/aula2/Nascimento.java
+ modulo8.aula2.Nascimento
+modulo6/aula4/Funcionario.java
+ modulo6.aula4.Funcionario
+modulo6/aula4/Supervisor.java
+ modulo6.aula4.Supervisor
 modulo6/aula2/Principal.java
  modulo6.aula2.Principal
 modulo6/aula3/Carro.java
  modulo6.aula3.Carro
-modulo6/aula3/Principal.java
- modulo6.aula3.Principal
-modulo6/aula4/Gerente.java
- modulo6.aula4.Gerente
-modulo6/aula4/Atendente.java
- modulo6.aula4.Atendente
-modulo6/aula4/Supervisor.java
- modulo6.aula4.Supervisor
-modulo6/aula4/Funcionario.java
- modulo6.aula4.Funcionario
-modulo6/aula4/Principal.java
- modulo6.aula4.Principal
-modulo6/aula5/Quadrinho.java
- modulo6.aula5.Quadrinho
-modulo6/aula5/Principal.java
- modulo6.aula5.Principal
-modulo6/aula5/Livro.java
- modulo6.aula5.Livro
-modulo8/aula2/TesteInstant.java
- modulo8.aula2.TesteInstant
 modulo8/aula2/DateTeste.java
  modulo8.aula2.DateTeste
-modulo8/aula2/Nascimento.java
- modulo8.aula2.Nascimento
-modulo8/aula3/TesteCalendar.java
- modulo8.aula3.TesteCalendar
 modulo8/aula3/Fatura.java
  modulo8.aula3.Fatura
-modulo8/aula3/Principal.java
- modulo8.aula3.Principal
-modulo8/aula4/DataFormatada.java
- modulo8.aula4.DataFormatada
+modulo6/aula4/Atendente.java
+ modulo6.aula4.Atendente
+modulo8/aula2/TesteInstant.java
+ modulo8.aula2.TesteInstant
 modulo8/aula5/TestesLocalDate.java
  modulo8.aula5.TestesLocalDate
-modulo8/aula5/AdicionaData.java
- modulo8.aula5.AdicionaData
+modulo6/aula5/Principal.java
+ modulo6.aula5.Principal
+modulo8/aula4/DataFormatada.java
+ modulo8.aula4.DataFormatada
+modulo9/TesteArray.java
+ modulo9.TesteArray
