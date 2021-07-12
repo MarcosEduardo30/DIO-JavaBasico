@@ -36,3 +36,7 @@ modulo8/aula3/Principal.java
  modulo8.aula3.Principal
 modulo8/aula4/DataFormatada.java
  modulo8.aula4.DataFormatada
+modulo8/aula5/TestesLocalDate.java
+ modulo8.aula5.TestesLocalDate
+modulo8/aula5/AdicionaData.java
+ modulo8.aula5.AdicionaData
