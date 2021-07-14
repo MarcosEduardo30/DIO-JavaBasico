@@ -8,14 +8,16 @@ modulo8/aula5/AdicionaData.java
  modulo8.aula5.AdicionaData
 modulo6/aula5/Quadrinho.java
  modulo6.aula5.Quadrinho
-modulo6/aula3/Principal.java
- modulo6.aula3.Principal
+modulo9/TesteArray.java
+ modulo9.TesteArray
 modulo8/aula3/TesteCalendar.java
  modulo8.aula3.TesteCalendar
 modulo6/aula4/Principal.java
  modulo6.aula4.Principal
 modulo6/aula5/Livro.java
  modulo6.aula5.Livro
+modulo6/aula3/Principal.java
+ modulo6.aula3.Principal
 modulo8/aula2/Nascimento.java
  modulo8.aula2.Nascimento
 modulo6/aula4/Funcionario.java
@@ -40,5 +42,7 @@ modulo6/aula5/Principal.java
  modulo6.aula5.Principal
 modulo8/aula4/DataFormatada.java
  modulo8.aula4.DataFormatada
-modulo9/TesteArray.java
- modulo9.TesteArray
+modulo10/Erro.java
+ modulo10.Erro
+modulo10/Excecoes.java
+ modulo10.Excecoes
